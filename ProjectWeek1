@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>John Duncanson</title>
+</head>
+<body>
+	<h2>John Duncanson</h2>
+	<nav>
+		<a href="www.ted.com">One</a> <a href="www.ted.com">Two</a> <a href="www.ted.com">Three</a> <a href="www.ted.com">GO</a>
+	</nav>
+	<section>
+		<h3>Favorite Foods</h3>
+			<ul>
+				<li>oatmeal</li>
+				<li>spinach</li>
+				<li>eggs</li>
+				<li>tuna</li>
+			</ul>
+	</section>	
+	<section>
+		<h3>Achievments</h3>
+			<label>Progress in this course(100%)</label>
+			<progress value="100" max="100" data-label="100%"></progress>
+			<br>
+			<label>Progress in this specialization capstone(20%)</label>
+			<progress value="20" max="100" data-label="20%"></progress>
+			<br>
+			<label>Progress in life goals(10%)</label>
+			<progress value="10" max="100" data-label="10%"></progress>
+	</section>
+	<section>
+		<h3>More About Me</h3>
+		<details>
+			<summary>My childhood</summary>
+			<p>Since I was a child, I have always enjoyed time in nature.</p>
+		</details>
+	</section>
+	<footer>
+		<figure>
+			<img src = "http://www.intro-webdesign.com/images/newlogo.png" alt = "Web Design">
+			<figcaption>This page was created by John Duncanson and Colleen van Lent. To learn more about web design, visit <a href="www.w3.org">Intro to Web Design</a></figcaption>
+		</figure>
+	</footer>
+</body>
+</html>
